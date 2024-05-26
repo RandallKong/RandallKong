@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RandallKong
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on Web Applications
 - 📫 How to reach me: rkong18@my.bcit.ca
 
 <!---
